@@ -9,6 +9,9 @@ Opcode Name.
 
 ## Results
 
+The following information is extracted from the calculation in [this Python
+Notebook](notebooks/tx_gas_repricing.ipynb#ALL-Traced-Contracts)
+
 ### General
 
 Results for a sample of 431,515:
